@@ -1,2 +1,3 @@
 # -Ecommerce_SalesPerformance-TargetAnalysis_Tableau-
-Create a dashboard to do a comparative study on various parameters of different countries using the sample insurance dataset and world development indicators dataset.
+Ojectives
+To build a dashboard that will present monthly sales performance by product segment and product category to help client identifying the segments and categories that have met or exceeded their sales targets, as well as those that have not met their sales targets. 
